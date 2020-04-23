@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{17B67E20-B96B-490E-8DCC-1E71B4CB307E}|Default">
+  <MonoDevelop.Ide.ItemProperties.IDentityTestsConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentityTest/Views/Home/Snake.cshtml">
+    <Files>
+      <File FileName="IdentityTest/Views/Home/Snake.cshtml" Line="43" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentityTest" expanded="True">
+            <Node name="IdentityTest" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Games" expanded="True" />
+              <Node name="Hubs" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Snake.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="IDentityTestsConsole" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>IDCClientTest/IDCClientTest.csproj</String>
+    <String>IdentityTest-Server/IdentityTest-Server.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.IdentityTest PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

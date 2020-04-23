@@ -1,0 +1,4 @@
+/Users/tom/Projects/IdentityTest/IDentityTestsConsole/bin/Release/IDentityTestsConsole.exe
+/Users/tom/Projects/IdentityTest/IDentityTestsConsole/obj/Release/IDentityTestsConsole.csprojAssemblyReference.cache
+/Users/tom/Projects/IdentityTest/IDentityTestsConsole/obj/Release/IDentityTestsConsole.csproj.CoreCompileInputs.cache
+/Users/tom/Projects/IdentityTest/IDentityTestsConsole/obj/Release/IDentityTestsConsole.exe
